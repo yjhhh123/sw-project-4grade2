@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="485dp"
+    android:height="900dp"
+    android:viewportWidth="389"
+    android:viewportHeight="800">
+    <group>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M0 0h389v800H0z"/>
+        <path
+            android:fillColor="#FF010101"
+            android:pathData="M0 0h393v800H0z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M152 807.63L407.3 617l13.75 18.43-255.29 190.63z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M83 799.51l338.56-252.8 13.76 18.42-338.56 252.8z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M-67 172.63L188.3-18l13.75 18.43-255.29 190.63z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M-25 202.63l297.83-222.4L286.6-1.32-11.24 221.06z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M-25 266.63L359.64-20.58 373.4-2.15l-384.64 287.2z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M-18 325.21L391.74 19.25l13.76 18.43L-4.24 343.64z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M-5 799.21l410.53-306.55 13.76 18.43L8.76 817.64z"/>
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M-25 751.21l446.59-333.47 13.76 18.43-446.6 333.47z"/>
+        <path
+            android:fillColor="#FFD9D9D9"
+            android:pathData="M-21.84 103.51l160.93-115.5 4.25 5.93-160.93 115.5z"/>
+        <path
+            android:fillColor="#FFFFD600"
+            android:pathData="M-21.84 103.51l160.93-115.5 4.25 5.93-160.93 115.5z"/>
+        <path
+            android:fillColor="#FFFFD600"
+            android:pathData="M228 805.93L397.6 675.2l4.46 5.78L232.45 811.7z"/>
+        <path
+            android:pathData="M196 230a170 170 0 1 0 0 340 170 170 0 1 0 0-340z"/>
+    </group>
+</vector>

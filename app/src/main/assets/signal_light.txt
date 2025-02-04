@@ -1,0 +1,4 @@
+Car
+crosswalk
+green_pedestrian_light
+red_pedestrian_light

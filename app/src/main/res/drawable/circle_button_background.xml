@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@color/button_background_color" /> <!-- 색상을 여기에 적용 -->
+    <size
+        android:width="400dp"
+        android:height="400dp" />
+</shape>
